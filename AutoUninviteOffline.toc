@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Auto Uninvite Offline
+## Notes: Automatically uninvites offline group members.
+## Author: Jaboi
+AutoUninviteOffline.lua
